@@ -1,7 +1,7 @@
 package com.company;
 
 public class Box <T>{
-    private static Object Box;
+   // private static Object Box;
     private int width;
     private  int length;
 
